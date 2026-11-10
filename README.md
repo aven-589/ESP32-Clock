@@ -341,10 +341,6 @@ ESP32 还没有收到时间。启动电脑端服务，确认串口连接。检�
 
 关闭终端再重新打开，让 Windows 重新加载 PATH。全局命令位于：
 
-```text
-C:\Users\35070\AppData\Local\Microsoft\WindowsApps\alarm.cmd
-```
-
 ### 闹钟不响
 
 检查：
